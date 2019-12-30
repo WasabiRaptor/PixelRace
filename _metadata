@@ -1,8 +1,11 @@
 {
   "author" : "Wasabi_Raptor",
-  "description" : "Made Of Money",
+  "description" : "Are you tired of not being literally made of money? well then do I have something for you: the greatest mod species of all time, the Pixel Race, making pixels playable.",
   "friendlyName" : "PixelRace",
+  "link" : "steam://url/CommunityFilePage/1952189161",
   "name" : "PixelRace",
-  "version" : "1.0",
-  "priority" : 0//don't ever touch that with a specie mod unless you know what you are doing!
+  "priority" : 0,
+  "steamContentId" : "1952189161",
+  "tags" : "Miscellaneous|Ships|Species|Character Improvements|Mechanics",
+  "version" : "100"
 }
