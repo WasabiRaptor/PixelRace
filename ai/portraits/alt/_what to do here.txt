@@ -1,0 +1,9 @@
+NOTE: We aren't sure these are still used in the game so you don't need to spend hundreads of hours on it.
+
+These are the alternate images used when your ai is talking to the player and appears over the chat area, we call these portraits.
+
+When renaming files please make sure that the name of the files follow these templates:
+Race Portrait: <YourRaceId>portrait.png
+
+Where:
+  <YourRaceId> is the "kind" value you assigned to your species in your .species file.

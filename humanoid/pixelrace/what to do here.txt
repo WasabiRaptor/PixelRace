@@ -1,0 +1,33 @@
+Here is a major part of your work, here you will design the looks of your race.
+I've included all the basics of the human body from the vanilla game as an example.
+
+NOTE: If your species does not fit the basic human body shape, get ready to create a massive amount of armors and work arounds.
+from experiance, I can certify you that the less it looks like a human, the more the game assets will look weird on your character,
+my pony modpack is probably the most extreme example of what can happen if you throw the human shape by the window.
+
+
+Here is what each files is used for:
+
+dead.png:
+The skull shown when a hardcore character from your race dies
+
+emote.png:
+All the mouth movement your character will have during an emote
+
+femalebody.png:
+The sprite sheet used to animate your species's female body
+
+malebody.png:
+The sprite sheet used to animate your species's male body
+
+femalehead.png:
+The sprite sheet used to animate your species's female head
+
+malehead.png:
+The sprite sheet used to animate your species's male head
+
+frontarm.png
+The sprite sheet used for your race's front arm
+
+Backarm.png:
+The sprite sheet used for your race's back arm

@@ -1,0 +1,23 @@
+[
+	//#Region: Ship Registration
+	[
+		{
+			//This patch determines which ship should be used for your species at any tier.
+			//If you wish to create your own ships, change the paths to your .structure files.
+			//Note: we do not provide template for ships.
+			"op" : "add",
+			"path" : "/speciesShips/pixelrace",
+			"value" : [
+				"/ships/pixelrace/pixelraceT0.structure",
+				"/ships/pixelrace/pixelraceT1.structure",
+				"/ships/pixelrace/pixelraceT2.structure",
+				"/ships/pixelrace/pixelraceT3.structure",
+				"/ships/pixelrace/pixelraceT4.structure",
+				"/ships/pixelrace/pixelraceT5.structure",
+				"/ships/pixelrace/pixelraceT6.structure",
+				"/ships/pixelrace/pixelraceT7.structure",
+				"/ships/pixelrace/pixelraceT8.structure"
+			]
+		}
+	]
+]

@@ -1,0 +1,20 @@
+//This patch will set which ai your species should use.
+//We provide bases and template for most of the ai frames.
+//
+//Updating To 1.x info:
+//This file's patch has changed a lot, the species specific text is gone.
+//The only thing that is species specific, is the ai frames and images.
+[
+	//#Region: Ai Registration
+	[
+		{
+			"op": "add",
+			"path": "/species/pixelrace",
+			"value": {
+				"aiFrames": "PixelraceAi.png",
+				"portraitFrames" : "portraits/pixelraceaiportrait.png",
+				"staticFrames": "staticPixelrace.png"
+			}
+		}
+	]
+]

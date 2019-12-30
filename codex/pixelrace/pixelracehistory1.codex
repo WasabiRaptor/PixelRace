@@ -1,0 +1,42 @@
+{
+	//A unique id for this codex
+	"id" : "pixelracehistory1",
+
+	//this should stay commented unless you have the burning desire to make it so that the
+	//codex is part of one of the vanilla species category.
+	//it can be either be omited or use one of these values:
+	//apex, avian, floran, human, hylotl, glitch or novakid
+	//"species" : "human",
+
+	//The title of the book shown both on it's tooltip/in game name and it's codex library entry.
+	"title" : "PIXELS",
+
+	//A short description for the tooltip
+	"description" : "The true masters of the universe.",
+
+	//the icon used both for the in game item and codex library entry.
+	"icon" : "pixelracecover1.png",
+
+	//This where you write you greatest stories, or worst fan fictions,
+	//To insert a new line character using \n will not be good enough.
+	//You have to use actual new line characters, look at the 2nd page entry for an example,
+	//but you should be fine as it wraps the text for you.
+	"contentPages" : [
+
+		//each string in this array is one page, so be careful to not make them too long.
+		"Long have Pixels been used as currency and crafting materials, but no more, with the destruction of earth, it is time for the Pixels to rise up and take what is rightfully theirs
+
+
+...that being the universe of course"
+
+  ],
+
+  //Theses are used to configure the item form of the codex
+  "itemConfig" : {
+	//It's rarity, it can either be: common(white), uncommon(green), rare(blue), legendary(purple)
+	"rarity" : "common",
+
+	//it's selling price, by convention all books cost 25 pixels.
+	"price" : 25
+  }
+}
